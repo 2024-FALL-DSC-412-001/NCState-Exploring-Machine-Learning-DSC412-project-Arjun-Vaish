@@ -37,10 +37,16 @@ Real estate pricing depends on multiple factors, including property size, number
 3. README.md: This file provides project instructions.
 
 ## **Citations**
-Scikit-learn Documentation
-Matplotlib Documentation
-K-means Clustering Overview
-Linear Regression Overview
+1. [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
+2. [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)  
+3. [K-means Clustering Overview](https://en.wikipedia.org/wiki/K-means_clustering)  
+4. [Linear Regression Overview](https://en.wikipedia.org/wiki/Linear_regression)
+
+
+
+
+
+
 
 
 
