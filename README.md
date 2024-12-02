@@ -10,7 +10,7 @@ The project incorporates:
 
 -K-means Clustering: To segment properties into distinct categories (e.g., small, medium, and large properties) based on attributes like size and price, providing additional insights into the data structure.
 
-This project is designed for learners and practitioners who want to explore machine learning techniques like linear regression and clustering using Python.
+This project is designed for learners who want to explore machine learning techniques like linear regression and clustering using Python.
 
 ## **Problem Statement**
 
