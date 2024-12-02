@@ -32,6 +32,18 @@ Real estate pricing depends on multiple factors, including property size, number
 
 ## **Files to look at**
 
+1. housing_analysis: Main Python script for data preprocessing, clustering, regression modeling, evaluation, and visualization.
+2. house 2.csv: The dataset used for the project.
+3. README.md: This file provides project instructions.
+
+## **Citations**
+Scikit-learn Documentation
+Matplotlib Documentation
+K-means Clustering Overview
+Linear Regression Overview
+
+
+
 
 
 
